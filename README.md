@@ -65,7 +65,7 @@ python MxCleaner.py example_data/input.csv
 ````
 
 ### Required Argument
-- `file_path` : Path to your CSV file (default: example_data/input.csv)
+- `file_path` : Path to your CSV file (here: example_data/input.csv)
 
 ### Optional Arguments
 
